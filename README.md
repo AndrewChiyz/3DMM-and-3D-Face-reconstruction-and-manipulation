@@ -16,8 +16,8 @@ State of the Art on Monocular 3D Face Reconstruction, Tracking, and Applications
 - https://github.com/3d-morphable-models/curated-list-of-awesome-3D-Morphable-Model-software-and-data
 
 ## Researchers
-- [Michael Zollhoefer](https://zollhoefer.com/) []
-- [Dr Aaron S. Jackson](http://aaronsplace.co.uk/) [[github]()][[Research](http://aaronsplace.co.uk/research.html)]
+- [Michael Zollhoefer](https://zollhoefer.com/) [[Publications](https://zollhoefer.com/publications.html)]
+- [Dr Aaron S. Jackson](http://aaronsplace.co.uk/) [[Research](http://aaronsplace.co.uk/research.html)]
 
 ## Seminar
 - [3D Morphable Models](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19102)
