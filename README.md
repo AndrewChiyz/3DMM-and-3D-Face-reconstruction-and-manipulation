@@ -19,6 +19,7 @@ Paper list of 3D Face reconstruction and manipulation
 ## Researchers
 - [Michael Zollhoefer](https://zollhoefer.com/) [[Publications](https://zollhoefer.com/publications.html)]
 - [Dr Aaron S. Jackson](http://aaronsplace.co.uk/) [[Research](http://aaronsplace.co.uk/research.html)]
+- [Kun Zhou](http://kunzhou.net/#iso-charts)[[Research](http://kunzhou.net/#iso-charts)]
 
 ## Seminar
 - [3D Morphable Models](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19102)
