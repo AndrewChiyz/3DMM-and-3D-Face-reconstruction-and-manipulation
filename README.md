@@ -17,9 +17,10 @@ Paper list of 3D Face reconstruction and manipulation
 - https://github.com/3d-morphable-models/curated-list-of-awesome-3D-Morphable-Model-software-and-data
 
 ## Researchers
+- [Prof. Dr. Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/) [[Projects](https://vcai.mpi-inf.mpg.de/GVV_Projects.html)]
 - [Michael Zollhoefer](https://zollhoefer.com/) [[Publications](https://zollhoefer.com/publications.html)]
 - [Dr Aaron S. Jackson](http://aaronsplace.co.uk/) [[Research](http://aaronsplace.co.uk/research.html)]
-- [Kun Zhou](http://kunzhou.net/#iso-charts)[[Research](http://kunzhou.net/#iso-charts)]
+- [Kun Zhou](http://kunzhou.net/#iso-charts) [[Research](http://kunzhou.net/#iso-charts)]
 
 ## Seminar
 - [3D Morphable Models](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19102)
