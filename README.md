@@ -11,10 +11,9 @@ Paper list of 3D Face reconstruction and manipulation
 
 ## Groups for 3D models and Graphic visions
 - [[MPII - Visual Computing and Artificial Intelligence Department](https://vcai.mpi-inf.mpg.de/VCAI_Projects.html)]
-- 
 
 ## Githubs
-- https://github.com/3d-morphable-models/curated-list-of-awesome-3D-Morphable-Model-software-and-data
+- [[Curated List of 3D Morphable Model Software and Data] (https://github.com/3d-morphable-models/curated-list-of-awesome-3D-Morphable-Model-software-and-data)]
 
 ## Researchers
 - [Prof. Dr. Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/) [[Projects](https://vcai.mpi-inf.mpg.de/GVV_Projects.html)]
@@ -30,13 +29,14 @@ Paper list of 3D Face reconstruction and manipulation
 - Chi Nhan Duong, Khoa Luu, Kha Gia Quach, and Tien D. Bui. 2019. Deep Appearance Models: A Deep Boltzmann Machine Approach for Face Modeling. *International
 Journal of Computer Vision* 127, 5 (2019), 437–455.[[Paper](https://link.springer.com/article/10.1007/s11263-018-1113-3)][[Project](https://www.profillic.com/search?query=Chi%20Nhan%20Duong)][code]
 
-- Victoria Fernández Abrevaya, Stefanie Wuhrer, and Edmond Boyer. 2018. Multilinear Autoencoder for 3D Face Model Learning. In Proc. IEEE Winter Conference on Applications of Computer Vision (WACV).
+- Victoria Fernández Abrevaya, Stefanie Wuhrer, and Edmond Boyer. 2018. Multilinear Autoencoder for 3D Face Model Learning. In Proc. IEEE Winter Conference on Applications of Computer Vision (WACV).[[Paper](https://openreview.net/pdf?id=QYd8PpIZ8a)]
 
 - James Booth, Epameinondas Antonakos, Stylianos Ploumpis, George Trigeorgis, Yannis Panagakis, and Stefanos Zafeiriou. 2017. 3D face morphable models "In-The-Wild". In Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR). IEEE, 5464–5473.
 
 - Stephen Lombardi, Jason Saragih, Tomas Simon, and Yaser Sheikh. 2018. Deep appearance models for face rendering. ACM Transactions on Graphics 37, 4 (2018), 68.
 
 - Anurag Ranjan, Timo Bolkart, Soubhik Sanyal, and Michael J. Black. 2018. Generating 3D faces using Convolutional Mesh Autoencoders. In Proc. European Conference on Computer Vision (ECCV). 725–741. 
+
 - Yuxiang Zhou, Jiankang Deng, Irene Kotsia, and Stefanos Zafeiriou. 2019. Dense 3D Face Decoding over 2500FPS: Joint Texture and Shape Convolutional Mesh Decoders. In Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
 
 ## Deep learning (GAN models)
@@ -76,13 +76,15 @@ Journal of Computer Vision* 127, 5 (2019), 437–455.[[Paper](https://link.sprin
 
 
 ## High Fidelity, Face Texture, GAN Hallucination
-- B. Gecer, S. Ploumpis, I. Kotsia, and S. Zafeiriou, “GANFIT: generative adversarial network fitting for high fidelity 3d face reconstruction,” in *IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2019, Long Beach, CA, USA, June 16-20, 2019*, 2019, pp. 1155–1164.[[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gecer_GANFIT_Generative_Adversarial_Network_Fitting_for_High_Fidelity_3D_Face_CVPR_2019_paper.pdf)][[code](https://github.com/barisgecer/ganfit)]
+- B. Gecer, S. Ploumpis, I. Kotsia, and S. Zafeiriou, “GANFIT: generative adversarial network fitting for high fidelity 3d face reconstruction,” in *IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2019, Long Beach, CA, USA, June 16-20, 2019*, 2019, pp. 1155–1164. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gecer_GANFIT_Generative_Adversarial_Network_Fitting_for_High_Fidelity_3D_Face_CVPR_2019_paper.pdf)][[code](https://github.com/barisgecer/ganfit)]
+- Baris Gecer, Stylianos Ploumpis, Irene Kotsia, Stefanos Zafeiriou:
+Fast-GANFIT: Generative Adversarial Network for High Fidelity 3D Face Reconstruction. IEEE Trans. Pattern Anal. Mach. Intell. 44(9): 4879-4893 (2022). [[Paper](https://arxiv.org/pdf/2105.07474.pdf)]
 
 - Ron Slossberg, Gil Shamai, Ron Kimmel: High Quality Facial Surface and Texture Synthesis via Generative Adversarial Networks. ECCV Workshops (3) 2018: 498-513. [[Paper](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Slossberg_High_Quality_Facial_Surface_and_Texture_Synthesis_via_Generative_Adversarial_ECCVW_2018_paper.pdf)]
 
 - A. Chen, Z. Chen, G. Zhang, K. Mitchell, and J. Yu, “Photo-realistic facial details synthesis from single image,” in IEEE International Conference on Computer Vision, ICCV 2019, Seoul, Korea (South), October 27 - November 2, 2019, 2019, pp. 9428–9438. [[Paper](https://doi.org/10.1109/ICCV.2019.00952 )][[code](https://github.com/apchenstu/Facial_Details_Synthesis)]
 
-- A. Tewari, M. Zollh ̈ofer, F. Bernard, P. Garrido, H. Kim, P. P ́erez, and C. Theobalt,  “High-fidelity  monocular  face  reconstruction  based  on  anunsupervised  model-based  face  autoencoder,” IEEE Trans. Pattern Anal. Mach. Intell.,  vol.  42,  no.  2,  pp.  357–370,  2020. [[Online](https://doi.org/10.1109/TPAMI.2018.2876842)] [[Project](http://gvv.mpi-inf.mpg.de/projects/TPAMI_Face/)] [[Paper](http://gvv.mpi-inf.mpg.de/projects/TPAMI_Face/paper.pdf)]
+- A. Tewari, M. Zollh ̈ofer, F. Bernard, P. Garrido, H. Kim, P. P ́erez, and C. Theobalt,  “High-fidelity  monocular  face  reconstruction  based  on  an unsupervised  model-based  face  autoencoder,” IEEE Trans. Pattern Anal. Mach. Intell.,  vol.  42,  no.  2,  pp.  357–370,  2020. [[Online](https://doi.org/10.1109/TPAMI.2018.2876842)] [[Project](http://gvv.mpi-inf.mpg.de/projects/TPAMI_Face/)] [[Paper](http://gvv.mpi-inf.mpg.de/projects/TPAMI_Face/paper.pdf)]
 
 - Yu Deng, Jiaolong Yang, Sicheng Xu, Dong Chen, Yunde Jia, and Xin Tong. Accurate 3d face reconstruction with weakly-supervised learning: From single image to image set. In IEEE Computer Vision and Pattern Recognition Workshops, 2019. [[code](https://github.com/microsoft/Deep3DFaceReconstruction)]
 
@@ -94,27 +96,27 @@ Journal of Computer Vision* 127, 5 (2019), 437–455.[[Paper](https://link.sprin
 - Tewari, F. Bernard, P. Garrido, G. Bharaj, M. Elgharib, H. Seidel, P. P ́erez, M. Zollh ̈ofer, and C. Theobalt, “FML: face model learning from videos,” in IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2019, Long Beach, CA, USA, June 16-20, 2019, 2019, pp. 10 812–10 822. [[Paper]()][[Project](https://gvv.mpi-inf.mpg.de/projects/FML19/)][[code]]
 
 ## CVPR2019
-- Z. Fan, X. Hu, C. Chen, and S. Peng, “Boosting local shape matching for dense 3d face correspondence,” in *IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2019, Long Beach, CA, USA, June 16-20*, 2019, pp. 10944–10 954.[[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Fan_Boosting_Local_Shape_Matching_for_Dense_3D_Face_Correspondence_CVPR_2019_paper.pdf)][code]
+- Z. Fan, X. Hu, C. Chen, and S. Peng, “Boosting local shape matching for dense 3d face correspondence,” in *IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2019, Long Beach, CA, USA, June 16-20*, 2019, pp. 10944–10 954. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Fan_Boosting_Local_Shape_Matching_for_Dense_3D_Face_Correspondence_CVPR_2019_paper.pdf)][code]
 
-- B. Gecer, S. Ploumpis, I. Kotsia, and S. Zafeiriou, “GANFIT: generative adversarial network fitting for high fidelity 3d face reconstruction,” in *IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2019, Long Beach, CA, USA, June 16-20, 2019*, 2019, pp. 1155–1164.[[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gecer_GANFIT_Generative_Adversarial_Network_Fitting_for_High_Fidelity_3D_Face_CVPR_2019_paper.pdf)][[code](https://github.com/barisgecer/ganfit)]
+- B. Gecer, S. Ploumpis, I. Kotsia, and S. Zafeiriou, “GANFIT: generative adversarial network fitting for high fidelity 3d face reconstruction,” in *IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2019, Long Beach, CA, USA, June 16-20, 2019*, 2019, pp. 1155–1164. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gecer_GANFIT_Generative_Adversarial_Network_Fitting_for_High_Fidelity_3D_Face_CVPR_2019_paper.pdf)][[code](https://github.com/barisgecer/ganfit)]
 
-- Z. Geng, C. Cao, and S. Tulyakov, “3D Guided Fine-grained Face Manipulation,” in *IEEE Conference on Computer Visionand Pattern Recognition, CVPR 2019, Long Beach, CA,USA, June 16-20, 2019*, 2019, pp. 9821–9830.[[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Geng_3D_Guided_Fine-Grained_Face_Manipulation_CVPR_2019_paper.pdf)]
+- Z. Geng, C. Cao, and S. Tulyakov, “3D Guided Fine-grained Face Manipulation,” in *IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2019, Long Beach, CA, USA, June 16-20, 2019*, 2019, pp. 9821–9830.[[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Geng_3D_Guided_Fine-Grained_Face_Manipulation_CVPR_2019_paper.pdf)]
 
-- Z. Jiang, Q. Wu, K. Chen, and J. Zhang, “Disentangled Representation Learning for 3D Face Shape,” in *IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2019, Long Beach, CA, USA,June 16-20, 2019*, 2019, pp. 11 957–11 966. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Jiang_Disentangled_Representation_Learning_for_3D_Face_Shape_CVPR_2019_paper.pdf)]
+- Z. Jiang, Q. Wu, K. Chen, and J. Zhang, “Disentangled Representation Learning for 3D Face Shape,” in *IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2019, Long Beach, CA, USA, June 16-20, 2019*, 2019, pp. 11 957–11 966. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Jiang_Disentangled_Representation_Learning_for_3D_Face_Shape_CVPR_2019_paper.pdf)]
 
-- G. Mu, D. Huang, G. Hu, J. Sun, and Y. Wang, “Led3d:Alight weight and efficient deep approach to recognizing low-quality 3d faces,” in *IEEE Conference on ComputerVision and Pattern Recognition, CVPR 2019, Long Beach, CA,USA, June 16-20, 2019*, 2019, pp. 5773–5782.[[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Mu_Led3D_A_Lightweight_and_Efficient_Deep_Approach_to_Recognizing_Low-Quality_CVPR_2019_paper.pdf)]
+- G. Mu, D. Huang, G. Hu, J. Sun, and Y. Wang, “Led3d: Alight weight and efficient deep approach to recognizing low-quality 3d faces,” in *IEEE Conference on ComputerVision and Pattern Recognition, CVPR 2019, Long Beach, CA, USA, June 16-20, 2019*, 2019, pp. 5773–5782.[[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Mu_Led3D_A_Lightweight_and_Efficient_Deep_Approach_to_Recognizing_Low-Quality_CVPR_2019_paper.pdf)]
 
-- G. Pavlakos, V. Choutas, N. Ghorbani, T. Bolkart, A. A. A. Osman,D. Tzionas, and M. J. Black, “Expressive body capture: 3d hands, face,and body from a single image,” in *IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2019, Long Beach, CA, USA,June 16-20, 2019*, 2019, pp. 10 975–10 985. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pavlakos_Expressive_Body_Capture_3D_Hands_Face_and_Body_From_a_CVPR_2019_paper.pdf)]
+- G. Pavlakos, V. Choutas, N. Ghorbani, T. Bolkart, A. A. A. Osman,D. Tzionas, and M. J. Black, “Expressive body capture: 3d hands, face, and body from a single image,” in *IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2019, Long Beach, CA, USA, June 16-20, 2019*, 2019, pp. 10 975–10 985. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pavlakos_Expressive_Body_Capture_3D_Hands_Face_and_Body_From_a_CVPR_2019_paper.pdf)]
 
-- S. Ploumpis, H. Wang, N. E. Pears, W. A. P. Smith, andS. Zafeiriou, “Combining 3d morphable models: A large scale face-and-head model,” in *IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2019, Long Beach, CA, USA,June 16-20, 2019*, 2019, pp. 10 934–10 943. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ploumpis_Combining_3D_Morphable_Models_A_Large_Scale_Face-And-Head_Model_CVPR_2019_paper.pdf)]
+- S. Ploumpis, H. Wang, N. E. Pears, W. A. P. Smith, and S. Zafeiriou, “Combining 3d morphable models: A large scale face-and-head model,” in *IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2019, Long Beach, CA, USA, June 16-20, 2019*, 2019, pp. 10 934–10 943. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ploumpis_Combining_3D_Morphable_Models_A_Large_Scale_Face-And-Head_Model_CVPR_2019_paper.pdf)]
  
-- S. Sanyal, T. Bolkart, H. Feng, and M. J. Black, “Learning to regress 3d face shape and expression from an image without 3d supervision,” in *IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2019, Long Beach, CA,USA, June 16-20, 2019*, 2019, pp. 7763–7772. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sanyal_Learning_to_Regress_3D_Face_Shape_and_Expression_From_an_CVPR_2019_paper.pdf)]
+- S. Sanyal, T. Bolkart, H. Feng, and M. J. Black, “Learning to regress 3d face shape and expression from an image without 3d supervision,” in *IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2019, Long Beach, CA, USA, June 16-20, 2019*, 2019, pp. 7763–7772. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sanyal_Learning_to_Regress_3D_Face_Shape_and_Expression_From_an_CVPR_2019_paper.pdf)]
 
-- L. Tran, F. Liu, and X. Liu, “Towards high-fidelity nonlinear 3d face morphable model,” in *IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2019, Long Beach, CA,USA, June 16-20, 2019*, 2019, pp. 1126–1135. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tran_Towards_High-Fidelity_Nonlinear_3D_Face_Morphable_Model_CVPR_2019_paper.pdf)]
+- L. Tran, F. Liu, and X. Liu, “Towards high-fidelity nonlinear 3d face morphable model,” in *IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2019, Long Beach, CA, USA, June 16-20, 2019*, 2019, pp. 1126–1135. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tran_Towards_High-Fidelity_Nonlinear_3D_Face_Morphable_Model_CVPR_2019_paper.pdf)]
 
 - F. Wu, L. Bao, Y. Chen, Y. Ling, Y. Song, S. Li, K. N.Ngan, and W. Liu, “MVF-Net: Multi-view 3d face morphablemodel regression,” in *IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2019, Long Beach, CA, USA,June 16-20, 2019*, 2019, pp.959–968. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_MVF-Net_Multi-View_3D_Face_Morphable_Model_Regression_CVPR_2019_paper.pdf)]
 
-- Y. Zhou, J. Deng, I. Kotsia, and S. Zafeiriou, “Dense 3D Face Decoding over 2500FPS: Joint texture & shape convolutional mesh decoders,” in *IEEE Conference on Computer Visionand Pattern Recognition, CVPR 2019, Long Beach, CA,USA, June 16-20, 2019*, 2019, pp. 1097–1106. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Dense_3D_Face_Decoding_Over_2500FPS_Joint_Texture__Shape_CVPR_2019_paper.pdf)]
+- Y. Zhou, J. Deng, I. Kotsia, and S. Zafeiriou, “Dense 3D Face Decoding over 2500FPS: Joint texture & shape convolutional mesh decoders,” in *IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2019, Long Beach, CA,USA, June 16-20, 2019*, 2019, pp. 1097–1106. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Dense_3D_Face_Decoding_Over_2500FPS_Joint_Texture__Shape_CVPR_2019_paper.pdf)]
 
 
 ## CVPR2018
@@ -144,9 +146,9 @@ Journal of Computer Vision* 127, 5 (2019), 437–455.[[Paper](https://link.sprin
 
 - A. Chen, Z. Chen, G. Zhang, K. Mitchell, and J. Yu, “Photo-realistic facial details synthesis from single image,” in IEEE InternationalConference on Computer Vision, ICCV 2019, Seoul, Korea (South), October 27 - November 2, 2019, 2019, pp. 9428–9438. [Online]. Available:https://doi.org/10.1109/ICCV.2019.00952
 
-- X. Zeng, X. Peng, and Y. Qiao, “DF2Net: A dense-fine-finer network for detailed 3d face reconstruction,” in *IEEE International Conferenceon Computer Vision, ICCV 2019, Seoul, Korea (South), October27 - November 2, 2019*, 2019, pp. 2315–2324. [[Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_DF2Net_A_Dense-Fine-Finer_Network_for_Detailed_3D_Face_Reconstruction_ICCV_2019_paper.pdf)]
+- X. Zeng, X. Peng, and Y. Qiao, “DF2Net: A dense-fine-finer network for detailed 3d face reconstruction,” in *IEEE International Conference on Computer Vision, ICCV 2019, Seoul, Korea (South), October 27 - November 2, 2019*, 2019, pp. 2315–2324. [[Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_DF2Net_A_Dense-Fine-Finer_Network_for_Detailed_3D_Face_Reconstruction_ICCV_2019_paper.pdf)]
 
-- X. Yuan and I. K. Park, “Face de-occlusion using 3d morphablemodel and generative adversarial network,” in *IEEE International Conference on Computer Vision, ICCV 2019, Seoul, Korea (South), October 27 - November 2, 2019*, 2019, pp. 10 061–10 070. [[Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yuan_Face_De-Occlusion_Using_3D_Morphable_Model_and_Generative_Adversarial_Network_ICCV_2019_paper.pdf)]
+- X. Yuan and I. K. Park, “Face de-occlusion using 3d morphable model and generative adversarial network,” in *IEEE International Conference on Computer Vision, ICCV 2019, Seoul, Korea (South), October 27 - November 2, 2019*, 2019, pp. 10 061–10 070. [[Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yuan_Face_De-Occlusion_Using_3D_Morphable_Model_and_Generative_Adversarial_Network_ICCV_2019_paper.pdf)]
 
 - W. Ren, J. Yang, S. Deng, D. P. Wipf, X. Cao, and X. Tong, “Face video deblurring using 3d facial priors,” in *IEEE International Conference on Computer Vision, ICCV 2019, Seoul, Korea (South), October 27 - November 2, 2019*, 2019, pp. 9387–9396. [[Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ren_Face_Video_Deblurring_Using_3D_Facial_Priors_ICCV_2019_paper.pdf)]
 
@@ -156,7 +158,7 @@ Journal of Computer Vision* 127, 5 (2019), 437–455.[[Paper](https://link.sprin
 
 
 ## ICCV2017
-- S. Jackson, A. Bulat, V. Argyriou, and G. Tzimiropoulos, “Large pose 3d face reconstruction from a single image via direct volumetric CNNregression,” inIEEE International Conference on Computer Vision, ICCV 2017, Venice, Italy, October 22-29, 2017, 2017, pp. 1031–1039. [[Online](https://doi.org/10.1109/ICCV.2017.117)] [[code](https://github.com/AaronJackson/vrn)]
+- S. Jackson, A. Bulat, V. Argyriou, and G. Tzimiropoulos, “Large pose 3d face reconstruction from a single image via direct volumetric CNN regression,” inIEEE International Conference on Computer Vision, ICCV 2017, Venice, Italy, October 22-29, 2017, 2017, pp. 1031–1039. [[Online](https://doi.org/10.1109/ICCV.2017.117)] [[code](https://github.com/AaronJackson/vrn)]
 
 ## ECCV2018
 - Anurag Ranjan, Timo Bolkart, Soubhik Sanyal, and Michael J. Black. Generating 3d faces using convolutional mesh autoencoders. In *Computer Vision- ECCV 2018 - 15th European Conference, Munich, Germany, September 8-14, 2018*, Proceedings, Part III, pages 725–741, 2018. [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Anurag_Ranjan_Generating_3D_Faces_ECCV_2018_paper.pdf)]
@@ -177,57 +179,57 @@ Journal of Computer Vision* 127, 5 (2019), 437–455.[[Paper](https://link.sprin
 
 - [2]  Baris Gecer, Alexander Lattas, Stylianos Ploumpis, Jiankang Deng, Athanasios Papaioannou, Stylianos Moschoglou, and Stefanos Zafeiriou. Synthesizing coupled 3d face modalities by trunk-branch generative adversarial networks. CoRR, abs/1909.02215, 2019.
 
-- [3]  Evangelos Ververas and Stefanos Zafeiriou. Slidergan: Synthesizing expressive face images by sliding 3d blendshape parameters.CoRR, abs/1908.09638,2019.
+- [3]  Evangelos Ververas and Stefanos Zafeiriou. Slidergan: Synthesizing expressive face images by sliding 3d blend shape parameters.CoRR, abs/1908.09638,2019.
 
-- [4]  Yajing Chen, Fanzi Wu, Zeyu Wang, Yibing Song, Yonggen Ling, and Linchao Bao.  Self-supervised learning of detailed 3d face reconstruction.CoRR,abs/1910.11791, 2019.
+- [4]  Yajing Chen, Fanzi Wu, Zeyu Wang, Yibing Song, Yonggen Ling, and Linchao Bao.  Self-supervised learning of detailed 3d face reconstruction.CoRR, abs/1910.11791, 2019.
 
-- [5]  Guoxian  Song,  Jianfei  Cai,  Tat-Jen  Cham,  Jianmin  Zheng,  Juyong  Zhang,  and  Henry  Fuchs.  Real-time  3d  face-eye  performance  capture  of  a  personwearing VR headset.CoRR, abs/1901.06765, 2019.
+- [5]  Guoxian  Song,  Jianfei  Cai,  Tat-Jen  Cham,  Jianmin  Zheng,  Juyong  Zhang,  and  Henry  Fuchs.  Real-time  3d  face-eye  performance  capture  of  a  person wearing VR headset. CoRR, abs/1901.06765, 2019.
 
-- [6]  Luan Tran and Xiaoming Liu.  On learning 3d face morphable model from in-the-wild images.CoRR, abs/1808.09560, 2018. [[Paper](https://arxiv.org/pdf/1808.09560.pdf)]
+- [6]  Luan Tran and Xiaoming Liu.  On learning 3d face morphable model from in-the-wild images. CoRR, abs/1808.09560, 2018. [[Paper](https://arxiv.org/pdf/1808.09560.pdf)]
 
 - [7]  Maur ́ıcio Sousa, Daniel Mendes, Rafael Kuffner dos Anjos, Daniel Sim ̃oes Lopes, and Joaquim A. Jorge.  Negative space: Workspace awareness in 3dface-to-face remote collaboration.CoRR, abs/1910.03380, 2019.
 
 - [8]  Mehryar Emambakhsh and Adrian N. Evans.  Nasal patches and curves for expression-robust 3d face recognition.CoRR, abs/1901.00206, 2019.
 
-- [9]  Shiyang Cheng, Michael M. Bronstein, Yuxiang Zhou, Irene Kotsia, Maja Pantic, and Stefanos Zafeiriou.  Meshgan: Non-linear 3d morphable modelsof faces.CoRR, abs/1903.10384, 2019.
+- [9]  Shiyang Cheng, Michael M. Bronstein, Yuxiang Zhou, Irene Kotsia, Maja Pantic, and Stefanos Zafeiriou.  Meshgan: Non-linear 3d morphable models of faces.CoRR, abs/1903.10384, 2019.
 
 - [10]  Shridhar Ravikumar.  Lightweight markerless monocular face capture with 3d spatial priors.CoRR, abs/1901.05355, 2019.
 
 - [11]  Yao Luo, Xiaoguang Tu, and Mei Xie.  Learning robust 3d face reconstruction and discriminative identity representation.CoRR, abs/1905.06505, 2019.
 
-- [12]  Xiaoguang Tu, Jian Zhao, Zihang Jiang, Yao Luo, Mei Xie, Yang Zhao, Linxiao He, Zheng Ma, and Jiashi Feng.  Joint 3d face reconstruction and denseface alignment from A single image with 2d-assisted self-supervised learning.CoRR, abs/1903.09359, 2019.
+- [12]  Xiaoguang Tu, Jian Zhao, Zihang Jiang, Yao Luo, Mei Xie, Yang Zhao, Linxiao He, Zheng Ma, and Jiashi Feng.  Joint 3d face reconstruction and dense face alignment from A single image with 2d-assisted self-supervised learning.CoRR, abs/1903.09359, 2019.
 
-- [13]  Jianzhu  Guo,  Xiangyu  Zhu,  Jinchuan  Xiao,  Zhen  Lei,  Genxun  Wan,  and  Stan  Z.  Li.   Improving  face  anti-spoofing  by  3d  virtual  synthesis.CoRR,abs/1901.00488, 2019.
+- [13]  Jianzhu  Guo,  Xiangyu  Zhu,  Jinchuan  Xiao,  Zhen  Lei,  Genxun  Wan,  and  Stan  Z.  Li.   Improving  face  anti-spoofing  by  3d  virtual  synthesis.CoRR, abs/1901.00488, 2019.
 
 - [14]  Rafal Pilarczyk, Xin Chang, and Wladyslaw Skarbek.  Human face expressions from images - 2d face geometry and 3d face local motion versus deep neural features.CoRR, abs/1901.11179, 2019.
 
-- [15]  Haotian Yang, Hao Zhu, Yanru Wang, Mingkai Huang, Qiu Shen, Ruigang Yang, and Xun Cao.  Facescape: a large-scale high quality 3d face datasetand detailed riggable 3d face prediction.CoRR, abs/2003.13989, 2020.
+- [15]  Haotian Yang, Hao Zhu, Yanru Wang, Mingkai Huang, Qiu Shen, Ruigang Yang, and Xun Cao.  Facescape: a large-scale high quality 3d face dataset and detailed riggable 3d face prediction.CoRR, abs/2003.13989, 2020.
 
 - [16]  Xiaowei Yuan and In Kyu Park.  Face de-occlusion using 3d morphable model and generative adversarial network.CoRR, abs/1904.06109, 2019.
 
 - [17]  Roberto Valle, Jos ́e Miguel Buenaposada, Antonio Vald ́es, and Luis Baumela.  Face alignment using a 3d deeply-initialized ensemble of regression trees.CoRR, abs/1902.01831, 2019.
 
-- [18]  Georgios Pavlakos, Vasileios Choutas, Nima Ghorbani, Timo Bolkart, Ahmed A. A. Osman, Dimitrios Tzionas, and Michael J. Black. Expressive bodycapture: 3d hands, face, and body from a single image. CoRR, abs/1904.05866, 2019.
+- [18]  Georgios Pavlakos, Vasileios Choutas, Nima Ghorbani, Timo Bolkart, Ahmed A. A. Osman, Dimitrios Tzionas, and Michael J. Black. Expressive body capture: 3d hands, face, and body from a single image. CoRR, abs/1904.05866, 2019.
 
-- [19]  Lei Jiang, Xiao-Jun Wu, and Josef Kittler. Dual attention mobdensenet(damdnet) for robust 3d face alignment. CoRR, abs/1908.11821, 2019.
+- [19]  Lei Jiang, Xiao-Jun Wu, and Josef Kittler. Dual Attention MobDenseNet(DAMDNet) for Robust 3D Face Alignment. CoRR, abs/1908.11821, 2019.
 
 - [20]  Ziyu Zhang, Feipeng Da, and Yi Yu. Data-free point cloud network for 3d face recognition. CoRR, abs/1911.04731, 2019.
 
-- [21]  Stylianos  Ploumpis,  Haoyang  Wang,  Nick  E.  Pears,  William  A.  P.  Smith,  and  Stefanos  Zafeiriou.   Combining  3d  morphable  models:  A  large  scaleface-and-head model.CoRR, abs/1903.03785, 2019.
+- [21]  Stylianos  Ploumpis,  Haoyang  Wang,  Nick  E.  Pears,  William  A.  P.  Smith,  and  Stefanos  Zafeiriou.   Combining  3d  morphable  models:  A  large  scale face-and-head model.CoRR, abs/1903.03785, 2019.
 
 - [22]  Feng Liu, Dan Zeng, Jing Li, and Qijun Zhao. Cascaded regressor based 3d face reconstruction from a single arbitrary view image.CoRR, abs/1509.06161,2015.
 
 - [23]  Rinat Abdrashitov, Alec Jacobson, and Karan Singh.  A system for efficient 3d printed stop-motion face animation.CoRR, abs/1907.10163, 2019.
 
-- [24]  Yu Deng, Jiaolong Yang, Sicheng Xu, Dong Chen, Yunde Jia, and Xin Tong.  Accurate 3d face reconstruction with weakly-supervised learning: Fromsingle image to image set.CoRR, abs/1903.08527, 2019.
+- [24]  Yu Deng, Jiaolong Yang, Sicheng Xu, Dong Chen, Yunde Jia, and Xin Tong.  Accurate 3d face reconstruction with weakly-supervised learning: From single image to image set.CoRR, abs/1903.08527, 2019.
 
-- [25]  Bernhard Egger, William A. P. Smith, Ayush Tewari, Stefanie Wuhrer, Michael Zollh ̈ofer, Thabo Beeler, Florian Bernard, Timo Bolkart, Adam Kortylewski,Sami  Romdhani,  Christian  Theobalt,  Volker  Blanz,  and  Thomas  Vetter.  3d  morphable  face  models  -  past,  present  and  future.CoRR,  abs/1909.01815,2019.
+- [25]  Bernhard Egger, William A. P. Smith, Ayush Tewari, Stefanie Wuhrer, Michael Zollh ̈ofer, Thabo Beeler, Florian Bernard, Timo Bolkart, Adam Kortylewski, Sami  Romdhani,  Christian  Theobalt,  Volker  Blanz,  and  Thomas  Vetter.  3d  morphable  face  models  -  past,  present  and  future.CoRR,  abs/1909.01815,2019.
 
 - [26]  Zhang Chen, Yu Ji, Mingyuan Zhou, Sing Bing Kang, and Jingyi Yu.  3d face reconstruction using color photometric stereo with uncalibrated near pointlights.CoRR, abs/1904.02605, 2019.
 
 - [27]  Ngoc-Trung Tran, Fakhr-Eddine Ababsa, Maurice Charbit, Jacques Feldmar, Dijana Petrovska-Delacr ́etaz, and G ́erard Chollet. 3d face pose and animationtracking via eigen-decomposition based bayesian approach.CoRR, abs/1908.11039, 2019.
 
-- [28]  Feng Liu, Luan Tran, and Xiaoming Liu.  3d face modeling from diverse raw scan data.CoRR, abs/1902.04943, 2019.
+- [28]  Feng Liu, Luan Tran, and Xiaoming Liu.  3d face modeling from diverse raw scan data. CoRR, abs/1902.04943, 2019.
 
 - [29]  Lei Li, Zhaoqiang Xia, Xiaoyue Jiang, Yupeng Ma, Fabio Roli, and Xiaoyi Feng.  3d face mask presentation attack detection based on intrinsic imageanalysis.CoRR, abs/1903.11303, 2019.
 
@@ -248,9 +250,9 @@ Journal of Computer Vision* 127, 5 (2019), 437–455.[[Paper](https://link.sprin
 
 - Joseph Roth, Yiying Tong, and Xiaoming Liu. Adaptive 3d face reconstruction from unconstrained photo collections. IEEE Trans. Pattern Anal. Mach.Intell., 39(11):2127–2141, 2017.
 
-- Kangkan Wang, Xianwang Wang, Zhigeng Pan, and Kai Liu. A two-stage framework for 3d facereconstruction from RGBD images.IEEE Trans. Pattern Anal. Mach. Intell., 36(8):1493–1504, 2014.
+- Kangkan Wang, Xianwang Wang, Zhigeng Pan, and Kai Liu. A two-stage framework for 3d face reconstruction from RGBD images.IEEE Trans. Pattern Anal. Mach. Intell., 36(8):1493–1504, 2014.
 
-- Hassen Drira, Boulbaba Ben Amor, Anuj Srivastava, Mohamed Daoudi, and Rim Slama. 3d face recognition under expressions, occlusions, and posevariations.IEEE Trans. Pattern Anal. Mach. Intell., 35(9):2270–2283, 2013.
+- Hassen Drira, Boulbaba Ben Amor, Anuj Srivastava, Mohamed Daoudi, and Rim Slama. 3d face recognition under expressions, occlusions, and pose variations.IEEE Trans. Pattern Anal. Mach. Intell., 35(9):2270–2283, 2013.
 
 - Oswald Aldrian and William A. P. Smith. Inverse rendering of faces with a 3d morphable model. IEEE Trans. Pattern Anal. Mach. Intell., 35(5):1080–1093,2013.
 
